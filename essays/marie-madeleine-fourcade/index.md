@@ -9,9 +9,9 @@ summary: A biography of an anti-fascist woman in the early 20th century.
 
 # Hedgehog
 
-Before the Spanish arrived, before the United States existed, before the concept of the Southwest was even imagined, there were chiles. Not the long red ristras you see hanging on gallery walls, not the hot sauces in grocery stores, not even the dried red chile sauce that defines New Mexican cooking. But *chiles*—wild, small, incredibly pungent plants that grew in what is now Mexico and Central America.
+Born: 1909
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+
 
 ## Wild Origins and Sacred Uses
 
