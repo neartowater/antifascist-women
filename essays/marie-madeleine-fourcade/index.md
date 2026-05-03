@@ -18,14 +18,14 @@ Born: 1909
 {% capture chile_origins_text %}
 Georges Loustaunau-Lacau's alias was Navarre, Madame Fourcade would refer to him by his code name for the rest of her life. Lacau was the man who introduced Forcade to the intelligence world starting her out as a courier. A rival of Charles de Gaulle and a veteran of World War 1. He was a conservative who was suspicious of communists but felt fascists represented the greater threat. Early into the German occupation of France he worked for Marshall Pétain's Vichy government for a short period. He was eventually imprisoned for his intelligence work.  
 
-Captured more than once and managed to escape the first time but was eventually apprehended and imprisoned at the Mauthausen concentration camp in Austria. Navarre died in 1955, eight days after being promoted to brigadier general.
+Captured by Vichy police as well as German troops he managed to escape multiple times, but was eventually apprehended and imprisoned at the Mauthausen concentration camp in Austria. He survived the war, weighing less than one hundred pounds when the allies liberated his camp. Navarre died in 1955, eight days after being promoted to brigadier general.
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/navarre.jpg"
   image-position="left"
   image-width="48%"
-  caption="Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: RAndom House, 2019)."
+  caption="Source: Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: Random House, 2019)."
   text=chile_origins_text
 %}
 
