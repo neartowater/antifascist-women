@@ -1,7 +1,7 @@
 ---
 title: "Marie-Madeleine Fourcade"
 layout: scrollstory
-header-image: images/marie-madeleine-fourcade.jpg
+header-image: images/Map-of-France.jpg
 thumbnail: images/marie-madeleine-fourcade.jpg
 position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
