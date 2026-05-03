@@ -13,12 +13,12 @@ Born: 1909
 
 
 
-## Wild Origins and Sacred Uses
+## Georges Loustaunau-Lacau
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Lacau's alias was Navarre, Madame Fourcade would refer to him by his code name for the rest of her life. A rival to Charles de Gaulle and a veteran of World War 1. Lacau was a conservative who was suspicious of communists but felt fascists represented the greater threat. He worked for Marshall Pétain's Vichy government for a short time before being imprisoned for his intelligence work. Lacau was the man who introduced Forcade to the intelligence world starting her out as a courier. 
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+Throughout his career Lacau was captured and managed to escape once but was eventually captured and imprisoned at teh Mauthausen concentration camp in Austria. Navarre died in 1955, eight days after being promoted to brigadier general.
 {% endcapture %}
 
 {% include images/figure-wrap.html
