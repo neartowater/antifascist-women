@@ -16,7 +16,7 @@ Marseille, Franch
 Parents: Mathilde & Lucien Bridou
 
 {% capture chile_origins_text %}
-Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness he contracted. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man however and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while with her husband until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. 
+Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness he contracted. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man however and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while with her husband until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. She embodied the idea of the "new woman," of post WWI France. She drove a rally car, got her pilots license, and got a job. One could argue she had a natural disposition to intelligence work in German occupied France.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -39,13 +39,13 @@ Captured by Vichy police as well as German troops he managed to escape multiple 
   image-path="images/navarre.jpg"
   image-position="left"
   image-width="48%"
-  caption="Source: Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: Random House, 2019)."
+  caption="Georges Loustanau Lacau was a product of France's foremost military academy Saint-Cyr, and the École Supérieure de Guerre, France's graduate war college. He was also a veteran of World War I and served under Marshal Philippe Pétain, who was later the Head of State of the Vichy Government. Lacau was considered a conservative who was equally as suspicious of communists, which demonstrates the diverse spectrum of antifascist operatives in France."
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"On May 14, 1940 Nazi Germany manuevered through the Ardenne's forrest in Belgium and breached weak French defenses at the north end of the Maginot defensive line. By June 25, Marshall Pétain announced an armistice with Germany dividing France in two an occupied \(northern France\) and a freezone \(southern France\). .\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+Great Brittain's intelligence agency MI 6 began searching for intelligence operatives inside France after Germany's invasion. They reached out to Lacau and his organization and formed a worknig relationship that would last the rest of the war. Upon agreeing to work together the two organizations formed what would be known as the Alliance network which would boast 3,000 intelligence agents across France throughout the war. Lacau would be arrested and imprisoned for the entirety of the war leaving Marie-Madeleine Forcade head of the network at 31 years old. 
 
 
 ## The Global Circulation
