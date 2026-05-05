@@ -92,12 +92,11 @@ As head of the Alliance or Noah's Ark, Forcade recruited women because they were
 - Jeanne Berthomier: A high-level official in the Ministry of Public Works in Paris
 - Monique Bontinck: Forcade's personal courier and fearless antifascist who took on daring missions without Forcade's knowledge
 
-The carousel below shows the diversity of modern chile culture:
+The carousel below shows Jeannie Rousseau, a transmitter similar to the style that the Alliance used, and one of Forcade's fake id's:
 
 {% assign images_list = "images/transmitter.jpg,images/rousseau.jpg,images/madame-fourcade.webp" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
 
 
 
