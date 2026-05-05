@@ -7,7 +7,8 @@ position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Marie-Madeleine Forcade Alias: Hedgehog
+# Marie-Madeleine Forcade 
+# Alias: Hedgehog
 
 Born: 1909
 
