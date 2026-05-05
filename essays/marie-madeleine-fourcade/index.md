@@ -7,11 +7,22 @@ position: 1
 summary: A biography of an anti-fascist woman in the early 20th century.
 ---
 
-# Hedgehog
+# Marie-Madeleine Forcade Alias: Hedgehog
 
 Born: 1909
+Marseille, Franch
+Parents: Mathilde & Lucien Bridou
 
+Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness he contracted. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man however and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while with her husband until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. 
+{% include images/figure-wrap.html
+  image-path="images/navarre.jpg"
+  image-position="left"
+  image-width="48%"
+  caption="Source: Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: Random House, 2019)."
+  text=chile_origins_text
+%}
 
+{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
 
 ## Georges Loustaunau-Lacau (1894-1955)
 
