@@ -71,7 +71,7 @@ At the port city of Brest on the peninsula of Brittany along France's west Atlan
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path=images/"brest_sub_port.jpg"
+  image-path="images/brest_sub_port.jpg"
   image-position="left"
   image-width="48"
   caption="U-boat bunker at Brest, France."
