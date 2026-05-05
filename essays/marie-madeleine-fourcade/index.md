@@ -60,18 +60,18 @@ The last six months of 1940, Dönitz's fleet sunk 500 merchant ships and 2.5 mil
 In addition to the lack of material goods, Great Britain suffered food shortages and had to begin rationing food, because seventy percent of the island nation's food products were imported. Constant air bombing campaigns on major cities was battering Great Britain into submission. Lacau agreed to provide MI 6 with intelligence about all of the ports and submarine activity that they could acquire. In honor of their agreement Lacau's organization which was known as the Crusade, was renamed the Alliance in honor of the pact. 
 
 
-## The New Mexican Obsession
+## Code Name "Shrimp" 
 
 {% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+Despite having agents throughout France, including the German occupied zone, intelligence teams in and around the submarine ports housing German submarines began sharing intelligence with MI 6 that would clear the path in the English channel allowing for the allies to plan a mainland invasion of France. These agents also provided intelligence about Germany's Atlantic Wall defenses identifying fortified defensive positions and even creating a 55' map that was crucial in planning the D-Day amphibious landings in June of 1944. 
 
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
+Alliance's intelligence group in the city of La Rochelle, under the leadership of Philippe Koenigswerther, provided intelligence that prompted what can be argued one of the most dangerous British commando raids of the war named Operation Frankton. This same group also relied on a crane operator whose view allowed him to watch German subs entering and leaving port. This information was relayed to MI 6 who passed the information on. One day in August of 1943, he reported five subs departing from the base which were later sunk in the Bay of Biscay by the Royal Air Force.
 
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
+At the port city of Brest on the peninsula of Brittany along France's west Atlantic coast, a seamstress code named Shrimp would repair life vests for submariners and listen to their conversations. She learned arrival and departure dates of the submarines in port and was responsible for several of them being sunk by the RAF. Despite trying to, it was virtually impossible for the Germans to hide all of their secrets from traveling beyond the port cities.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="brest1.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
