@@ -47,7 +47,7 @@ Captured by Vichy police as well as German troops he managed to escape multiple 
 
 Great Brittain's intelligence agency MI 6 began searching for intelligence operatives inside France after Germany's invasion. They reached out to Lacau and his organization and formed a partnership that would last the rest of the war. Upon agreeing to work together the two organizations formed what would be known as the Alliance network which would boast 3,000 intelligence agents across France throughout the war. Lacau would eventually be arrested and imprisoned for the entirety of the war leaving Marie-Madeleine Forcade head of the network at 31 years old. 
 
-{% include typography/pullquote.html text=" " \"...even now England was experiencing serious trouble in keeping her food supply...The important thing now is to sink enough ships to reduce England's imports to below the absolute minimum necessary for existence" German Foreign Minister Joachim von Ribbentrop to Japanase ambassador in Berlin.\" %}
+{% include typography/pullquote.html text=" \"...even now England was experiencing serious trouble in keeping her food supply...The important thing now is to sink enough ships to reduce England's imports to below the absolute minimum necessary for existence\" German Foreign Minister Joachim von Ribbentrop to Japanase ambassador in Berlin." %}
 
 ## Great Britain's Dire Straits
 
