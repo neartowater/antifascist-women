@@ -72,30 +72,29 @@ At the port city of Brest on the peninsula of Brittany along France's west Atlan
 
 {% include images/figure-wrap.html
   image-path="brest_sub_port.jpg"
-  image-position="center"
-  image-width="25%"
+  image-position="left"
+  image-width="48"
   caption="U-boat bunker at Brest, France."
   text=chile_nm_text
 %}
 
 
-## The Chemistry of Heat and Culture
+## Noah's Ark
 
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
+{% include typography/pullquote.html text="\"Although Alliance began as an almost exclusively male organization, women accounted for some twenty percent of its existence. Like their male counterparts, they represented all classes of society, from maids and laundresses to Paris socialites.\" Lynne Olson" %}
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
+Madame Forcade escaped capture by supportive Vichy police, who were being supervised by German intelligence, in November of 1942. While trying to evade capture she left a list of agent names at the house of sympathizers who later turned the list into authories. Forcade renamed her agents after animals prompting German intelligence to name her network  \"Noah's Ark.\"  
 
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+As head of the Alliance or Noah's Ark, Forcade recruited women because they were good carriers and could often obviate scrutiny. At the beginning of her career, Lacau told her that her gender would be a strength becuase she would not be suspected. Forcade chose the alias Hedgehog because she said despite looking rather harmless, when balled up that a lion a would hesitate to try to swallow it.  
 
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
+**Notable Female Agents:**
+- Jeannie Rouseau: Provided crucial intelligence about German V1 and V2 rocket programs
+- Jeanne Berthomier: A high-level official in the Ministry of Public Works in Paris
+- Monique Bontinck: Forcade's personal courier and fearless antifascist who took on daring missions without Forcade's knowledge
 
 
-## Modern Variations and Challenges
+
+## Jeannie Rousseau
 
 Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
 
