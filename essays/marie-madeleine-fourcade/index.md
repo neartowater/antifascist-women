@@ -87,6 +87,13 @@ What makes chiles remarkable isn't just their flavor, but their heat—the capsa
 
 There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
 
+**The varieties tell a story:**
+- Pueblo chiles: small, early, adapted to high elevations
+- Spanish varieties: brought by colonists, adapted over centuries
+- Hybrid modern varieties: bred for consistency and market appeal
+- Heirloom preservation varieties: grown specifically to maintain genetic diversity
+
+
 
 ## Modern Variations and Challenges
 
@@ -98,12 +105,6 @@ The carousel below shows the diversity of modern chile culture:
 
 {% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
 
 Each represents a different moment in the chile's journey from wild plant to cultural icon.
 
