@@ -72,8 +72,8 @@ At the port city of Brest on the peninsula of Brittany along France's west Atlan
 
 {% include images/figure-wrap.html
   image-path="brest1.jpg"
-  image-position="right"
-  image-width="45%"
+  image-position="center"
+  image-width="100%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
   text=chile_nm_text
 %}
