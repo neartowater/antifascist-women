@@ -11,19 +11,19 @@ summary: A biography of an anti-fascist woman in the early 20th century.
 
 Born: 1909
 
-Marseille, Franch
+Marseille, France
 
 Parents: Mathilde & Lucien Bridou
 
 {% capture chile_origins_text %}
-Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness he contracted. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man however and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while with her husband until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. She embodied the idea of the "new woman," of post WWI France. She drove a rally car, got her pilots license, and got a job. One could argue she had a natural disposition to intelligence work in German occupied France.
+Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man, however, and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while, until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. She embodied the idea of the "new woman" of post WWI France. Her free spirit inspired her to buy a rally car, get her pilots license, and a job. One could argue she had a natural disposition to intelligence work in German occupied France because of her love of adventure.
 {% endcapture %}
 
 {% include images/figure-wrap.html
   image-path="images/forcade_young.webp"
   image-position="right"
   image-width="48%"
-  caption="Source: Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: Random House, 2019)."
+  caption="Marie-Madeleine Forcade born into relative comfort would find herself evading arrest and escaping capture throughout the war, always one step ahead of torture or death at the hands of the Gestapo."
   text=chile_origins_text
 %}
 
@@ -53,11 +53,11 @@ Great Brittain's intelligence agency MI 6 began searching for intelligence opera
 
 
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+The Fall of France had dire effects for Great Britain as it became isolated from its trading partners and increasingly isolated by German submarines. Admiral Karl Dönitz quickly moved his fleet of submarines to ports along Frances norther Atlantic coast. The port cities of Saint\-Nazaire, Brest, & Bordeaux soon were host to Germany's \"gray wolf\" submarine fleet.
 
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
+The last six months of 1940, Dönitz's fleet sunk 500 merchant ships and 2.5 million tons of cargo, crippling Englands economy. Without access to fuel oil, copper, lead, rubber, iron, ore, nickel, zinc, and aluminum, Great Britain's economy and military would be unable to function.  
 
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+In addition to the lack of material goods, Great Britain suffered food shortages and had to begin rationing food, because seventy percent of the island nation's food products were imported. Constant air bombing campaigns on major cities was battering Great Britain into submission. Lacau agreed to provide MI 6 with intelligence about all of the ports and submarine activity that they could acquire. In honor of their agreement Lacau's organization which was known as the Crusade, was renamed the Alliance in honor of the pact. 
 
 
 ## The New Mexican Obsession
