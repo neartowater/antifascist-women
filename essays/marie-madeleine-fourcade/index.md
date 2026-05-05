@@ -10,10 +10,14 @@ summary: A biography of an anti-fascist woman in the early 20th century.
 # Marie-Madeleine Forcade Alias: Hedgehog
 
 Born: 1909
+
 Marseille, Franch
+
 Parents: Mathilde & Lucien Bridou
 
 Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a shipping line executive for the route between France and Shanghai but in 1917 tragedy struck when her father died of an illness he contracted. Madame Forcade and her familly moved back to Paris when Forcade was 17 years old with aspirations of becoming a concert pianist. She fell in love with an older man however and was married shortly thereafter. Her husband was in the army, stationed in Morroco where Forcade lived for a while with her husband until they separated in 1933. Forcade moved back to Paris with her two children to be closer to family and friends. 
+{% endcapture %}
+
 {% include images/figure-wrap.html
   image-path="images/navarre.jpg"
   image-position="left"
