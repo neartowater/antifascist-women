@@ -71,10 +71,10 @@ At the port city of Brest on the peninsula of Brittany along France's west Atlan
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="brest1.jpg"
+  image-path="brest_1.jpg"
   image-position="center"
   image-width="25%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="U-boat bunker at Brest, France."
   text=chile_nm_text
 %}
 
