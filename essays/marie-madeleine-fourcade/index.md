@@ -96,9 +96,9 @@ As head of the Alliance or Noah's Ark, Forcade recruited women because they were
 
 ## Jeannie Rousseau
 
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
+Jeannie Rousseau twenty years old when the war started, despite her age, she was able to get a job working with German officers because of her ability to speak German fluently. Rousseau's wit and charm disarmed many German officers and their wives, allowing her to extract valuable information from them. 
 
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
+Rousseau used wit and charm to trick the Germans into revealing their secrets. In one of her encounters she coaxed an officer into revealing plans and the location of a missile site in Peenemünde, Germany. In fact, the German's were developing the V1 pilotless jet aircraft equipped with bombs and the V2 missles, the worlds first long range ballistic missile system at the site. Rousseau with little understanding of the drawings was able to recreate them later because in addition to speaking five language, she also had a photographic memory. Rousseau's intellegince inspired Britain's prime minister, Winston Churchill to bomb Peenemünde thereby setting the German missle program back by months. Rousseau's intelligence is considered some of the finest intelligence gatehring work of World War II. Had the German's been able to develop their V1 and V2 missile programs before the Allied invasion, there is no certainty the Allies would have succeeded in their amphibious assault on beaches of Normandy.
 
 The carousel below shows the diversity of modern chile culture:
 
