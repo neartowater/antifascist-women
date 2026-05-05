@@ -110,14 +110,14 @@ Rousseau used wit and charm to trick the Germans into revealing their secrets. I
 
 ## Hedgehog's Legacy of Non-Violent Resistance
 
-Marie-Madeleine Fourcade would spend the rest of her life advocating for the families of agents who gave their lives for the antifascist cause of resistance
+Marie-Madeleine Fourcade would spend the rest of her life advocating for the families of agents who gave their lives to the cause of antifascism. Her story provides a glimpse into the diverse nature of antifascist activism during the interwar period in France. She is a living testament to the fact that women contributed in a myriad of ways to resistance efforts toward Fascist elements within and outside their nations. Most of these women's stories have been ignored and lay dormant for decades until recently, historians historians have begun to explore the contributions of women resisting the fascist movements that defined their era. 
 
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
+Madame Forcade's chosen method of resistance was nonviolent but the damage her organization was able to inflict on the German imperial project went far beyond killing enemy combatants in hand-to-hand combat. Her organization: demoralized entire German military weapons testing and development, crippled German submarine fleets in the Atlantic, and coordinated with allies for conducting and succeeding in executing one of the largest amphibious landing operations in the history of war. Forcades story highlights the effectiveness of nonviolent resistance.
 
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
+She died on July 20, 1989, she was the first woman to be given a funeral at Les Invalides, an honor given to French heroes. 
 
-The heat remains. The flavor remains. The chile endures.
+
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Olson, Lynne. Madam Fourcade's Secret War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler. New York: Random House, 2019.
