@@ -21,7 +21,7 @@ Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a
 
 {% include images/figure-wrap.html
   image-path="images/forcade_young.webp"
-  image-position="left"
+  image-position="right"
   image-width="48%"
   caption="Source: Lynne Olson, Madame Fourcade's War: The Daring Young Woman Who Led France's Largest Spy Network Against Hitler (New York: Random House, 2019)."
   text=chile_origins_text
