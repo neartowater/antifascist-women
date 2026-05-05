@@ -94,7 +94,7 @@ As head of the Alliance or Noah's Ark, Forcade recruited women because they were
 
 The carousel below shows the diversity of modern chile culture:
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% assign images_list = "images/bontinck.jpg,images/rousseau.jpg,images/madame-fourcade.webp" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 Each represents a different moment in the chile's journey from wild plant to cultural icon.
