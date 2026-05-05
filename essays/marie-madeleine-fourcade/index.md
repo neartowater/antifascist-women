@@ -66,7 +66,7 @@ In addition to the lack of material goods, Great Britain suffered food shortages
 {% capture chile_nm_text %}
 Despite having agents throughout France, including the German occupied zone, intelligence teams in and around the submarine ports housing German submarines began sharing intelligence with MI 6 that would clear the path in the English channel allowing for the allies to plan a mainland invasion of France. These agents also provided intelligence about Germany's Atlantic Wall defenses identifying fortified defensive positions and even creating a 55' map that was crucial in planning the D-Day amphibious landings in June of 1944. 
 
-Alliance's intelligence group in the city of La Rochelle, under the leadership of Philippe Koenigswerther, provided intelligence that prompted what can be argued one of the most dangerous British commando raids of the war, named Operation Frankton. This same group also relied on a crane operator whose view allowed him to watch German subs entering and leaving port. This information was relayed to MI 6 who passed the information on. One day in August of 1943, he reported five subs departing from the base which were later sunk in the Bay of Biscay by the Royal Air Force.
+Alliance's intelligence group in the city of La Rochelle, under the leadership of Philippe Koenigswerther, provided intelligence that prompted what can be argued one of the most dangerous British commando raids of the war, named Operation Frankton. This same group also relied on a crane operator whose view allowed him to watch German subs entering and leaving port. This information was relayed to MI 6 who passed the information on. One day in August of 1943, the crane operator reported five subs departing from the base, only to be sunk later in the Bay of Biscay by the Royal Air Force.
 
 At the port city of Brest on the peninsula of Brittany along France's west Atlantic coast, a seamstress code named Shrimp would repair life vests for submariners and listen to their conversations. She learned arrival and departure dates of the submarines in port and was responsible for several of them being sunk by the RAF. Despite trying to, it was virtually impossible for the Germans to hide all of their secrets from traveling beyond the port cities.
 {% endcapture %}
@@ -80,13 +80,17 @@ At the port city of Brest on the peninsula of Brittany along France's west Atlan
 %}
 
 
-## Noah's Ark
+
 
 {% include typography/pullquote.html text="\"Although Alliance began as an almost exclusively male organization, women accounted for some twenty percent of its existence. Like their male counterparts, they represented all classes of society, from maids and laundresses to Paris socialites.\" Lynne Olson" %}
 
-Madame Forcade escaped capture by supportive Vichy police, who were being supervised by German intelligence, in November of 1942. While trying to evade capture she left a list of agent names at the house of sympathizers who later turned the list into authories. Forcade renamed her agents after animals prompting German intelligence to name her network  \"Noah's Ark.\"  
 
-As head of the Alliance or Noah's Ark, Forcade recruited women because they were good couriers and could often obviate scrutiny. At the beginning of her career, Lacau told her that her gender would be a strength becuase she would not be suspected. Forcade chose the alias Hedgehog because she said despite looking rather harmless, when balled up in a defensive positiont,that a lion a would hesitate to try to swallow it.  
+## Noah's Ark
+
+
+In November of 1942, Madame Forcade escaped capture by supportive Vichy police, who were being supervised by German intelligence. While trying to evade capture she left a list of agent names at the house of sympathizers who later turned the list into authories. Forcade renamed her agents after animals prompting German intelligence to name her network  \"Noah's Ark.\"  
+
+As head of the Alliance or Noah's Ark, Forcade recruited women because they were good couriers and could often obviate scrutiny. At the beginning of her career, Lacau told her that her gender would be a strength because she would not be suspected. Forcade chose the alias Hedgehog because she said despite looking rather harmless, when balled up in a defensive positiont, that a lion a would hesitate to try to swallow it.  
 
 **Notable Female Agents:**
 - Jeannie Rouseau: Provided crucial intelligence about German V1 and V2 rocket programs
@@ -112,7 +116,7 @@ Rousseau used wit and charm to trick the Germans into revealing their secrets. I
 
 Marie-Madeleine Fourcade would spend the rest of her life advocating for the families of agents who gave their lives to the cause of antifascism. Her story provides a glimpse into the diverse nature of antifascist activism during the interwar period in France. She is a living testament to the fact that women contributed in a myriad of ways to resistance efforts toward Fascist elements and regimes within and outside their nations. Most of these women's stories have been ignored and lay dormant for decades; until recently historians have begun to explore the contributions of women resisting the fascist movements that defined their era. 
 
-Madame Forcade's chosen method of resistance was nonviolent but the damage her organization was able to inflict on the German imperial project went far beyond killing enemy combatants in hand-to-hand combat. Her organization: demoralized entire German military weapons testing and development bases, crippled German submarine fleets in the Atlantic, and coordinated with allies for conducting and succeeding in executing one of the largest amphibious landing operations in the history of war. Forcade's story highlights the effectiveness of nonviolent resistance.
+Madame Forcade's chosen method of resistance was nonviolence, despite the means by which she resisted, the damage her organization inflicted on the German imperial project went far beyond killing enemy combatants in hand-to-hand combat. Her organization demoralized entire German military weapons testing and development bases, crippled German submarine fleets in the Atlantic, and coordinated with allies for conducting and succeeding in executing one of the largest amphibious assault landing operations in the history of war. Forcade's story highlights the effectiveness of nonviolent resistance.
 
 She died on July 20, 1989, she was the first woman to be given a funeral at Les Invalides, an honor given to French heroes. 
 
