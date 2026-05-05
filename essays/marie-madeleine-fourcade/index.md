@@ -26,8 +26,6 @@ Marie-Madelein spent her early years in Shanghai, China. Fourcade's father was a
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
-
 ## Georges Loustaunau-Lacau (1894-1955)
 
 {% capture chile_origins_text %}
