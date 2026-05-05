@@ -43,12 +43,15 @@ Captured by Vichy police as well as German troops he managed to escape multiple 
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text=" On May 14, 1940 Nazi Germany manuevered through the Ardenne's forrest in Belgium and breached weak French defenses at the north end of the Maginot defensive line. By June 25, Marshall Pétain announced an armistice with Germany dividing France in two an occupied \(northern France\) and a freezone \(southern France\)." %}
+ On May 14, 1940 Nazi Germany manuevered through the Ardenne's forrest in Belgium and breached weak French defenses at the north end of the Maginot defensive line. By June 25, Marshall Pétain announced an armistice with Germany dividing France in two an occupied \(northern France\) and a freezone \(southern France\).
 
-Great Brittain's intelligence agency MI 6 began searching for intelligence operatives inside France after Germany's invasion. They reached out to Lacau and his organization and formed a working relationship that would last the rest of the war. Upon agreeing to work together the two organizations formed what would be known as the Alliance network which would boast 3,000 intelligence agents across France throughout the war. Lacau would be arrested and imprisoned for the entirety of the war leaving Marie-Madeleine Forcade head of the network at 31 years old. 
+Great Brittain's intelligence agency MI 6 began searching for intelligence operatives inside France after Germany's invasion. They reached out to Lacau and his organization and formed a partnership that would last the rest of the war. Upon agreeing to work together the two organizations formed what would be known as the Alliance network which would boast 3,000 intelligence agents across France throughout the war. Lacau would eventually be arrested and imprisoned for the entirety of the war leaving Marie-Madeleine Forcade head of the network at 31 years old. 
+
+{% include typography/pullquote.html text=" "...even now England was experiencing serious trouble in keeping her food supply...The important thing now is to sink enough ships to reduce England's imports to below the absolute minimum necessary for existence" German Foreign Minister Joachim von Ribbentrop to Japanase ambassador in Berlin." %}
+
+## Great Britain's Dire Straits
 
 
-## The Global Circulation
 
 The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
 
